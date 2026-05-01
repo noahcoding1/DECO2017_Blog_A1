@@ -61,3 +61,14 @@ ul.tags-list {
 ul.post-list{
     list-style: none;
 }
+
+.post-content img,
+article img,
+main img {
+  max-width: 100%;
+  width: 100%;
+  height: auto;
+  display: block;
+  margin: 1.5rem auto 0.5rem auto;
+  border-radius: 8px;
+}
