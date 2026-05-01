@@ -37,7 +37,7 @@ To explore this, I conducted online ethnography while Sanjana conducted competit
 
 This research shifted our thinking. Instead of designing a platform mainly around displaying recipes, we started considering how the hub could support adaptation and discussion around recipes. This was a more specific direction because it responded to an observed behaviour: home cooks often modify recipes rather than following them exactly. The design opportunity became less about storing perfect recipes and more about helping users learn from each other’s changes, mistakes and improvements, while also allowing people to form communities and have discussions.
 
-![Ideas breakdown from research insights](assets/images/Features)
+![Ideas breakdown from research insights](assets/images/Features.png)
 
 *Figure 4: Ideas breakdown showing how research insights led to possible features such as recipe adaptations, discussion spaces, saved recipes and user groups.*
 
