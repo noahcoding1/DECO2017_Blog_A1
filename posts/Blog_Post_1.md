@@ -1,5 +1,5 @@
 ---
-title: Blog Post 1
+title: Week 5 — From Brief to Brainstorm
 date: 2026-04-04
 author: Noah Bloom
 summary: This post is my early interpretation of the Design brief and initial community brainstorming
@@ -10,7 +10,7 @@ tags:
   - Design brief
 ---
 
-## From Brief to Brainstorm the start of my community
+## From Brief to Brainstorm - The start of my community
 
 The first step of my project was about understanding what the assignment and BlaBla Corp brief were actually asking us to design. At first, I was thinking of the task more as building a social media-style website with posts, likes and comments. However, after reading the brief more carefully, I realised the focus was more on designing a specific “community hub” where people with a shared interest could connect. To me, this meant the idea had to be unique, not too broad, and based on something that personally interested me enough that I would want to build a site about it.
 
