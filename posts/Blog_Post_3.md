@@ -23,3 +23,4 @@ The main design decision was deciding what the home cooking hub should centre ar
 
 Wireframing helped us break the project into key views. The first view we considered was the main recipe browsing page. This page needed to show enough recipe content to feel active, but not so much that it became overwhelming. We discussed using recipe cards with images, recipe titles, cuisine tags, difficulty levels and possibly dietary labels. This would allow users to quickly scan recipes and decide what to open. The trade-off here was between visual appeal and simplicity. A Pinterest-style layout could be engaging, but it could also become cluttered or difficult to implement, so a more structured card layout seemed more realistic for the prototype.
 
+We then moved on after finishing our wireframes we polished them off in class and had a discussion and followed this pattern or flow as done in class (make this into an ordered list)Wireframe → DDD → ERD → Schema... 
