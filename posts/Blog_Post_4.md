@@ -1,5 +1,5 @@
 ---
-title: Post Title
+title: Weeks 9/10 building time
 date: 2026-02-14
 author: Your Name
 summary: Short description
@@ -8,8 +8,4 @@ tags:
   - tag2
   - tag3
 ---
-Write your content here.
-here i will do things idkkk
-
-https://www.markdownlang.com/cheatsheet/headings.html
-https://edstem.org/au/courses/30901/lessons/103877/slides/716383
+in week 10 we were working together as we set our goal was to both work on the same thing as we cna then try to wrap our head around what i sreuired for us a bit better
