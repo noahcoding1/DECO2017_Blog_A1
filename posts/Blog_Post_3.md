@@ -10,20 +10,8 @@ tags:
   - Prototype planning
   - User flows
 ---
----
-title: Week 8/9 — From Concept to Wireframes
-date: 2026-05-01
-author: Noah Bloom
-summary: This post reflects on how wireframing helped us move from a broad home cooking concept into clearer pages, layouts, components and early data requirements for the prototype.
-tags:
-  - wireframes
-  - design development
-  - home cooks
-  - prototype planning
-  - user flows
----
 
-# From Concept to Wireframes: Bringing the Home Cooking Hub to Life
+## From Concept to Wireframes: Bringing the Home Cooking Hub to Life
 
 After choosing home cooks as our community and identifying the risk of becoming a generic recipe-sharing site, the next step was to start turning the idea into something more concrete. This post focuses on wireframing, which helped us move from broad feature ideas into actual pages, layouts and user flows. At this stage, the wireframes are not intended to be final designs. Instead, they are a way to test the structure of the site and work out what components would be needed in the prototype.
 
