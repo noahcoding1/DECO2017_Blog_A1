@@ -10,11 +10,11 @@ tags:
   - Design brief
 ---
 
-## From Brief to Brainstorm - The Start of My Community
+## From Brief to Brainstorm - The start of my community
 
 The first step of my project was about understanding what the assignment and BlaBla Corp brief were actually asking us to design. At first, I was thinking of the task more as building a social media-style website with posts, likes and comments. However, after reading the brief more carefully, I realised the focus was more on designing a specific “community hub” where people with a shared interest could connect. To me, this meant the idea had to be unique, not too broad, and based on something that personally interested me enough that I would want to build a site about it.
 
-This became important during early ideation. A successful community hub needs more than just users posting content. It needs a clear reason for people to return, contribute and interact with each other. The brief also emphasised that:
+This became important during early ideation. A successful community hub needs more than just users posting content. It needs a clear reason for people to return contribute and interact with each other. The brief also emphasised that:
 
 > “Curating the right experience is what keeps them coming back.”
 
@@ -28,7 +28,7 @@ From there, I began brainstorming possible communities based on my current inter
 
 *Figure 2: Brainstorm map of possible community hub ideas, including home cooks, photographers, thrift shoppers, surf spots, indie games and hidden food spots.*
 
-The idea that stood out most was a community for home cooks. This was an idea that was discussed briefly in class, as Sanjana, my group member, mentioned she had an interest in this area. Home cooking has a strong mixture of practical information and personal experience. People do not only look for recipes; they ask questions, share failures, modify instructions, recommend substitutions, and seek feedback on what they made. This made the community feel like it had enough activity and shared knowledge to support a proper hub, rather than just a static collection of content.
+The idea that stood out most was a community for home cooks. This was an idea that was discussed briefly in class, as Sanjana, my group member, mentioned she had an interest in this area. Home cooking has a strong mixture of practical information and personal experience. People do not only look for recipes.. They ask questions, share failures, modify instructions, recommend substitutions, and seek feedback on what they made. This made the community feel like it had enough activity and shared knowledge to support a proper hub, rather than just a static collection of content.
 
 ![Comparison table of community ideas](assets/images/Comparison_Table.png)
 

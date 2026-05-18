@@ -13,7 +13,7 @@ tags:
 
 ## Locking in the Prototype: Scope, Integration and Final Decisions
 
-Beginning week eleven, the project shifted from exploring possibilities to locking in what we could realistically complete. Previously, we had talked about many options for the home cooking hub, such as browsing recipes, saving recipes, user profiles, asking questions, leaving comments, creating communities and maybe adding group chat. As the deadline approached, the main design decision became deciding what should stay central and what needed to be simplified or excluded.
+Beginning week eleven, the project shifted from exploring possibilities to locking in what we could realistically complete. Previously, we had talked about many options for the home cooking hub, such as browsing recipes, saving recipes, user profiles, asking questions, leaving comments, creating communities and maybe adding group chat. As the deadline approached, the main design decision became deciding what should stay central and what needed to be simplified or cut.
 
 The main constraint was scope. Including every social feature would make the home cooking community much larger and harder to finish properly. For instance, group chat and community groups would make the platform feel more social, but they would also add a lot of complexity. They would need more routes, database tables, interaction states and testing. Because of this, we decided to focus on the core recipe experience first. This meant prioritising the pages and features that helped users browse, view and interact with recipes.
 
