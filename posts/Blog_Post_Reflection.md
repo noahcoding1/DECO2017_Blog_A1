@@ -39,7 +39,7 @@ The interface was usable and most of the interactions felt clear to me. The reci
 
 I think we met most of the goals we set out to reach, but there were still some things we did not fully get to complete. One of the main features we wanted was saving recipes. The idea was that users could save recipes from the recipe page or browse page, and then view those saved recipes on their profile. We also wanted the profile page to feel more like a personal page, almost like a Tumblr-style page, where users could see recipes they had posted, saved, liked or commented on. We got most of the profile function working, especially around created recipes, but we did not get to that final saved/liked/commented profile system.
 
-![Create recipe overlay and profile page](assets/images/Recipe_flow.png)
+![Create recipe overlay and profile page](assets/images/Profile_flow.png)
 
 *Figure 3: Create recipe overlay and profile page showing how user-created recipes connect back to the logged-in user.*
 

@@ -361,3 +361,28 @@ ul.post-list > li > a:hover {
   transform: translateY(-2px);
   color: #ffffff;
 }
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+  font-size: 0.95rem;
+}
+
+th,
+td {
+  border: 1px solid var(--border);
+  padding: 0.85rem 1rem;
+  text-align: left;
+  vertical-align: top;
+}
+
+th {
+  background: var(--accent-soft);
+  color: var(--text);
+  font-weight: 800;
+}
+
+tr:nth-child(even) {
+  background: #fffaf6;
+}
