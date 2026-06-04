@@ -1,6 +1,6 @@
 ---
 title: Week 9/10 Translating the Idea into the Prototype
-date: 11-05-2026
+date: 2026-05-11
 author: Noah Bloom
 summary: This post reflects on how we moved from wireframes and planning into the actual build, focusing on prototype structure, data decisions, debugging and version control.
 tags:

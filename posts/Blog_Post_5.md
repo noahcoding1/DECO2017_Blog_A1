@@ -1,14 +1,14 @@
 ---
 title: Week 11 - Locking in the Prototype
-date: 17-05-2026
+date: 2026-05-17
 author: Noah Bloom
 summary: This post reflects on the final stage of A1 development, where we focused on locking in scope, integrating work, polishing the prototype and checking whether the site still matched the original community goal.
 tags:
-  - integration
-  - scope
-  - final decisions
-  - prototype
-  - reflection
+  - Integration
+  - Scope
+  - Final decisions
+  - Prototype
+  - Reflection
 ---
 
 ## Locking in the Prototype: Scope, Integration and Final Decisions

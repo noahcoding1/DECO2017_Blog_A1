@@ -1,6 +1,6 @@
 ---
 title: Week 8/9 — From Concept to Wireframes
-date: 01-05-2026
+date: 2026-05-01
 author: Noah Bloom
 summary: This post is the journey on how wireframing helped us move from a broad home cooking concept into clearer pages, layouts and components for the prototype.
 tags:
