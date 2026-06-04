@@ -1,6 +1,6 @@
 ---
 title: A2 Reflection
-date: 2026-06-3
+date: 04-06-2026
 author: Noah Bloom
 summary: 
 tags:

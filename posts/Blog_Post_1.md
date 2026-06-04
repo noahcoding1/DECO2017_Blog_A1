@@ -1,6 +1,6 @@
 ---
 title: Week 5 - From Brief to Brainstorm
-date: 2026-04-04
+date: 04-04-2026
 author: Noah Bloom
 summary: This post is my early interpretation of the Design brief and initial community brainstorming
 tags:

@@ -1,6 +1,6 @@
 ---
 title: Week 6/7 - Choosing Our Idea
-date: 2026-04-21
+date: 21-04-2026
 author: Noah Bloom
 summary: In this post our group compared early community ideas, chose home cooks as our direction, and used early research to identify the risk of becoming a generic recipe sharing platform.
 tags:
